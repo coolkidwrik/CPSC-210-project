@@ -1,0 +1,62 @@
+{
+    "max size": 20,
+    "name": "UBC Dolphins",
+    "team": [
+        {
+            "butterfly 100m": 0,
+            "freestyle 50m": 0,
+            "breast stroke 100m": 0,
+            "butterfly 50m": 0,
+            "vice-captain": false,
+            "name": "drake",
+            "back stroke 50m": 0,
+            "captain": true,
+            "breast stroke 50m": 0,
+            "main stroke": "freestyle",
+            "freestyle 100m": 0,
+            "back stroke 100m": 0
+        },
+        {
+            "butterfly 100m": 65,
+            "freestyle 50m": 0,
+            "breast stroke 100m": 0,
+            "butterfly 50m": 30,
+            "vice-captain": true,
+            "name": "josh",
+            "back stroke 50m": 0,
+            "captain": false,
+            "breast stroke 50m": 0,
+            "main stroke": "butterfly",
+            "freestyle 100m": 0,
+            "back stroke 100m": 0
+        },
+        {
+            "butterfly 100m": 0,
+            "freestyle 50m": 0,
+            "breast stroke 100m": 0,
+            "butterfly 50m": 0,
+            "vice-captain": false,
+            "name": "chad",
+            "back stroke 50m": 30,
+            "captain": false,
+            "breast stroke 50m": 0,
+            "main stroke": "back stroke",
+            "freestyle 100m": 0,
+            "back stroke 100m": 55
+        },
+        {
+            "butterfly 100m": 60,
+            "freestyle 50m": 0,
+            "breast stroke 100m": 0,
+            "butterfly 50m": 30,
+            "vice-captain": false,
+            "name": "bob",
+            "back stroke 50m": 0,
+            "captain": false,
+            "breast stroke 50m": 0,
+            "main stroke": "breast stroke",
+            "freestyle 100m": 0,
+            "back stroke 100m": 0
+        }
+    ]
+}
